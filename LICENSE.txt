@@ -1,0 +1,7 @@
+Copyright 2025 Aohan Dang
+
+This project is licensed under the GNU Lesser General Public License version 2.1 (LGPL-2.1).
+
+This project is derived from Wine (https://gitlab.winehq.org/wine/wine), which is licensed under LGPL-2.1.
+
+See the file COPYING.LIB for full license text.
